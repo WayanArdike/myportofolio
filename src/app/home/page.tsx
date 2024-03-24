@@ -25,9 +25,6 @@ export default function Home() {
                             <li>
                                 {item.judul}
                             </li>
-                            <li>
-                                {item.abstrak}
-                            </li>
                         </ul>
                     ))}
                 </ul>
